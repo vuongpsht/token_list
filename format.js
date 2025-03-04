@@ -1,5 +1,6 @@
-const tokens = require('./tokens.json')
-const fs = require('fs')
+import tokens from './tokens.json' assert { type: "json" };
+
+import fs from 'fs'
 const time = performance.now()
 
 const INCLUDES_CHAIN = [
@@ -166,7 +167,14 @@ const reduces2 = reduces.reduce((acc, curr) => {
         ...acc,
         [chainSymbolByName[curr.platform.name]]: {
             ...acc[chainSymbolByName[curr.platform.name]],
-            [curr.contractAddress.toLowerCase()]: curr
+            [curr.contractAddress.toLowerCase()]: {
+                contractAddress: curr.contractAddress,
+                decimals: curr.decimals,
+                name: curr.name,
+                cmcId: curr.cmcId,
+                symbol: curr.symbol,
+                logo: curr.logo
+            }
         }
     }
 }, {})
