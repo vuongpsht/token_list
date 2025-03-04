@@ -142,11 +142,20 @@ const chainSymbolByName = {
     "WAX": "WAXP"
 }
 
-console.log(tokens[0]['contractAddress'][0]['platform']);
+console.log(tokens[0].cmcId);
 const reduces = tokens.reduce((acc, curr) => {
+    if (!curr?.cmcId) {
+        return acc
+    }
     return [
         ...acc,
-        ...curr['contractAddress']
+        ...curr['contractAddress'].map(e => ({
+            ...e,
+            name: curr.name,
+            cmcId: curr.cmcId,
+            symbol: curr.symbol,
+            logo: curr.logo
+        }))
     ]
 }, [])
 const reduces2 = reduces.reduce((acc, curr) => {
@@ -161,8 +170,10 @@ const reduces2 = reduces.reduce((acc, curr) => {
         }
     }
 }, {})
-console.log('reduces', reduces, reduces.length);
-console.log('reduces2', reduces2,);
-console.log('reduces2 keys', JSON.stringify(Object.keys(reduces2), null, 2),);
+// console.log('reduces', reduces, reduces.length);
+// console.log('reduces2', reduces2,);
+// console.log('reduces2 keys', JSON.stringify(Object.keys(reduces2), null, 2),);
 fs.writeFileSync('./formated.json', JSON.stringify(reduces2))
-console.log(`take ${performance.now() - time}`)
+// console.log(`take ${performance.now() - time}`)
+
+console.log(tokens[0])
