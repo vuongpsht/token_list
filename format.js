@@ -36,7 +36,7 @@ const chainSymbolByName = {
     "Terra Classic": "LUNC",
     "Waves": "WAVES",
     "Fantom": "FTM",
-    "Polygon": "MATIC",
+    "Polygon": "POL",
     "OKExChain": "OKT",
     "Celo": "CELO",
     "Bitcoin Cash": "BCH",
