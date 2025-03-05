@@ -7585,9 +7585,17 @@
         }
     },
     "SOL": {
+        "8kqmghm1mkxbkyqt2wgnhxwnrdejd9naynkd3eanwkcd": {
+            "contractAddress": "8Kqmghm1mkXbKYqt2wGnHxwnRdEjD9nayNKD3EanWkcD",
+            "decimals": 8,
+            "name": "Dopamine",
+            "cmcId": 14891,
+            "symbol": "DOPE",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14891.png"
+        },
         "2fpytwczlug1mdrwsyop4d6s1tm7hakhyrjknb5w6pxk": {
             "contractAddress": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
-            "decimals": null,
+            "decimals": 6,
             "name": "Ethereum",
             "cmcId": 1027,
             "symbol": "ETH",
@@ -7595,7 +7603,7 @@
         },
         "es9vmfrzacermjfrf4h2fyd4kconky11mcce8benwnyb": {
             "contractAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-            "decimals": null,
+            "decimals": 6,
             "name": "Tether USDt",
             "cmcId": 825,
             "symbol": "USDT",
@@ -7603,7 +7611,7 @@
         },
         "so11111111111111111111111111111111111111111": {
             "contractAddress": "So11111111111111111111111111111111111111111",
-            "decimals": null,
+            "decimals": 9,
             "name": "Solana",
             "cmcId": 5426,
             "symbol": "SOL",
@@ -7611,7 +7619,7 @@
         },
         "epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v": {
             "contractAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-            "decimals": null,
+            "decimals": 6,
             "name": "USDC",
             "cmcId": 3408,
             "symbol": "USDC",
@@ -7619,7 +7627,7 @@
         },
         "cwe8jptuyhdctzywpte1o5dfqfdjzwkc9wkz6rsjqudg": {
             "contractAddress": "CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG",
-            "decimals": null,
+            "decimals": 6,
             "name": "Chainlink",
             "cmcId": 1975,
             "symbol": "LINK",
@@ -7627,7 +7635,7 @@
         },
         "8fu95xfjhuukyyclu13hszdls7oc4qzdxqhl6sceab36": {
             "contractAddress": "8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36",
-            "decimals": null,
+            "decimals": 8,
             "name": "Uniswap",
             "cmcId": 7083,
             "symbol": "UNI",
@@ -7635,7 +7643,7 @@
         },
         "ejmyn6qec1tf1jxig1ae7utjhuxswk1tcwnwqxwv4j6o": {
             "contractAddress": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
-            "decimals": null,
+            "decimals": 8,
             "name": "Dai",
             "cmcId": 4943,
             "symbol": "DAI",
@@ -7643,7 +7651,7 @@
         },
         "3vas4d1we6na4tcgt4bapgffenbm8wy7q4cspd1ym4cg": {
             "contractAddress": "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg",
-            "decimals": null,
+            "decimals": 8,
             "name": "Aave",
             "cmcId": 7278,
             "symbol": "AAVE",
@@ -7651,7 +7659,7 @@
         },
         "6p6xghyf7aee6tzksmfsko444wqop15icusqi2jfgipn": {
             "contractAddress": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-            "decimals": null,
+            "decimals": 6,
             "name": "OFFICIAL TRUMP",
             "cmcId": 35336,
             "symbol": "TRUMP",
@@ -7659,7 +7667,7 @@
         },
         "rndrizkt3mk1iimdxrdwabcf7zg7ar5t4nud4ekhbof": {
             "contractAddress": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
-            "decimals": null,
+            "decimals": 8,
             "name": "Render",
             "cmcId": 5690,
             "symbol": "RENDER",
@@ -7667,7 +7675,7 @@
         },
         "dvjmymvexgkxaixgkpzqthlog98nc7hsu7eanzsdcboa": {
             "contractAddress": "DvjMYMVeXgKxaixGKpzQThLoG98nc7HSU7eanzsdCboA",
-            "decimals": null,
+            "decimals": 8,
             "name": "Cronos",
             "cmcId": 3635,
             "symbol": "CRO",
@@ -7675,7 +7683,7 @@
         },
         "jupyiwryjfskupiha7hker8vutaefosybkedznsdvcn": {
             "contractAddress": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
-            "decimals": null,
+            "decimals": 6,
             "name": "Jupiter",
             "cmcId": 29210,
             "symbol": "JUP",
@@ -7683,7 +7691,7 @@
         },
         "9znqrsgljnkwcuu5gq5lr8beucpzqmvmqkai3sszh54u": {
             "contractAddress": "9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u",
-            "decimals": null,
+            "decimals": 6,
             "name": "First Digital USD",
             "cmcId": 26081,
             "symbol": "FDUSD",
@@ -7691,7 +7699,7 @@
         },
         "abaq2r9gspddgguqxbk4u13s4zyw6zbwkvbx15mcmg8": {
             "contractAddress": "ABAq2R9gSpDDGguQxBk4u13s4ZYW6zbwKVBx15mCMG8",
-            "decimals": null,
+            "decimals": 8,
             "name": "GateToken",
             "cmcId": 4269,
             "symbol": "GT",
@@ -7699,7 +7707,7 @@
         },
         "hzrcwxp2vq9pcppxooayhj2bxtpo5xfpqrwb1svh332p": {
             "contractAddress": "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
-            "decimals": null,
+            "decimals": 8,
             "name": "Lido DAO",
             "cmcId": 8000,
             "symbol": "LDO",
@@ -7707,7 +7715,7 @@
         },
         "8gc27rqf4nedyfyf5as8zmqjuum5gufowkgyrrba4enn": {
             "contractAddress": "8gC27rQF4NEDYfyf5aS8ZmQJUum5gufowKGYRRba4ENN",
-            "decimals": null,
+            "decimals": 8,
             "name": "Fantom",
             "cmcId": 3513,
             "symbol": "FTM",
@@ -7715,7 +7723,7 @@
         },
         "4k3dyjzvzp8emzwuxbbcjevwskkk59s5icnly3qrkx6r": {
             "contractAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
-            "decimals": null,
+            "decimals": 6,
             "name": "Raydium",
             "cmcId": 8526,
             "symbol": "RAY",
@@ -7723,7 +7731,7 @@
         },
         "hgslg4pnz28l8a4r5npqkgzd86zuudmfnktrnufj5dax": {
             "contractAddress": "HGsLG4PnZ28L8A4R5nPqKgZd86zUUdmfnkTRnuFJ5dAX",
-            "decimals": null,
+            "decimals": 8,
             "name": "The Graph",
             "cmcId": 6719,
             "symbol": "GRT",
@@ -7731,7 +7739,7 @@
         },
         "dezxaz8z7pnrnrjjz3wxborgixca6xjnb7yab1ppb263": {
             "contractAddress": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
-            "decimals": null,
+            "decimals": 5,
             "name": "Bonk",
             "cmcId": 23095,
             "symbol": "BONK",
@@ -7739,7 +7747,7 @@
         },
         "clqsdgogibdnpnvcfp8basn2unvyvb41jd5usywanzag": {
             "contractAddress": "CLQsDGoGibdNPnVCFp8BAsN2unvyvb41Jd5USYwAnzAg",
-            "decimals": null,
+            "decimals": 8,
             "name": "Ethereum Name Service",
             "cmcId": 13855,
             "symbol": "ENS",
@@ -7747,7 +7755,7 @@
         },
         "jtojtomepa8bep8auqc6ext5frijwffmwqx2v2f9mcl": {
             "contractAddress": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
-            "decimals": null,
+            "decimals": 9,
             "name": "Jito",
             "cmcId": 28541,
             "symbol": "JTO",
@@ -7755,7 +7763,7 @@
         },
         "hz1jovnivvgrgniiyveozevgz58xau3rkwx8eacqbct3": {
             "contractAddress": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
-            "decimals": null,
+            "decimals": 6,
             "name": "Pyth Network",
             "cmcId": 28177,
             "symbol": "PYTH",
@@ -7763,7 +7771,7 @@
         },
         "3iql8bfs2ve7mww4ehaqqhasbmrncrpxizwat2zfyr9y": {
             "contractAddress": "3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
-            "decimals": null,
+            "decimals": 9,
             "name": "Virtuals Protocol",
             "cmcId": 29420,
             "symbol": "VIRTUAL",
@@ -7771,7 +7779,7 @@
         },
         "hyswcbhiyy9888phbaqhwlyzqezrcqmxkqwrqs7zcpk5": {
             "contractAddress": "HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5",
-            "decimals": null,
+            "decimals": 8,
             "name": "Axie Infinity",
             "cmcId": 6783,
             "symbol": "AXS",
@@ -7779,7 +7787,7 @@
         },
         "2b1kv6dkpanxd5ixfnxcpjxmkwqjjaymczfhsfu24gxo": {
             "contractAddress": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
-            "decimals": null,
+            "decimals": 6,
             "name": "PayPal USD",
             "cmcId": 27772,
             "symbol": "PYUSD",
@@ -7787,7 +7795,7 @@
         },
         "hntyvp6yfm1hg25tn9wglqm12b8tqmcknkrdu1oxwux": {
             "contractAddress": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
-            "decimals": null,
+            "decimals": 8,
             "name": "Helium",
             "cmcId": 5665,
             "symbol": "HNT",
@@ -7795,7 +7803,7 @@
         },
         "j3nkxxxzcnnimjkw9hyb2k4luxgwb6t1ftptqvsv3kfr": {
             "contractAddress": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
-            "decimals": null,
+            "decimals": 8,
             "name": "SPX6900",
             "cmcId": 28081,
             "symbol": "SPX",
@@ -7803,7 +7811,7 @@
         },
         "7dghon8wbzcc5wbnq2c47tdnbmaxg4q5l3kjp67z8kni": {
             "contractAddress": "7dgHoN8wBZCc5wbnQ2C47TDnBMAxG4Q5L3KjP67z8kNi",
-            "decimals": null,
+            "decimals": 8,
             "name": "Decentraland",
             "cmcId": 1966,
             "symbol": "MANA",
@@ -7811,7 +7819,7 @@
         },
         "ekpqgsjtjmfqkz9kqansqyxrcf8fbopzlhyxdm65zcjm": {
             "contractAddress": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
-            "decimals": null,
+            "decimals": 6,
             "name": "dogwifhat",
             "cmcId": 28752,
             "symbol": "WIF",
@@ -7819,7 +7827,7 @@
         },
         "fuafbo2jgks6gb4z4lfzkqszgznucisehqnnebarxm1p": {
             "contractAddress": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
-            "decimals": null,
+            "decimals": 6,
             "name": "Official Melania Meme",
             "cmcId": 35347,
             "symbol": "MELANIA",
@@ -7827,7 +7835,7 @@
         },
         "c6ofse8nxrdthzrmeq5sxanfgkoyyfwddvpw37jkvpte": {
             "contractAddress": "C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe",
-            "decimals": null,
+            "decimals": 8,
             "name": "PAX Gold",
             "cmcId": 4705,
             "symbol": "PAXG",
@@ -7835,7 +7843,7 @@
         },
         "agfead2et2zjif9jagpdmixqqvw5i81abdvke7phnfz3": {
             "contractAddress": "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
-            "decimals": null,
+            "decimals": 6,
             "name": "FTX Token",
             "cmcId": 4195,
             "symbol": "FTT",
@@ -7843,7 +7851,7 @@
         },
         "2zmmhcvqexdtde6vsfs7s7d5ouodfjhe8vd1gnbouauv": {
             "contractAddress": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
-            "decimals": null,
+            "decimals": 6,
             "name": "Pudgy Penguins",
             "cmcId": 34466,
             "symbol": "PENGU",
@@ -7851,7 +7859,7 @@
         },
         "c7nnpwuzcnjzbfw5p6jvgsr8pudsrpedp1zahnodwj7h": {
             "contractAddress": "C7NNPWuZCNjZBfW5p6JvGsR8pUdsRpEdP1ZAhnoDwj7h",
-            "decimals": null,
+            "decimals": 8,
             "name": "Polygon",
             "cmcId": 3890,
             "symbol": "MATIC",
@@ -7859,7 +7867,7 @@
         },
         "85vbfqzc9tzkfaptbwjvuw7ybzjy52a6mjtpgjstqamq": {
             "contractAddress": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
-            "decimals": null,
+            "decimals": 6,
             "name": "Wormhole",
             "cmcId": 29587,
             "symbol": "W",
@@ -7867,7 +7875,7 @@
         },
         "aweauvatmqrb71wednwf1dwsbxamkjepuxylr1uixfom": {
             "contractAddress": "AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom",
-            "decimals": null,
+            "decimals": 8,
             "name": "Compound",
             "cmcId": 5692,
             "symbol": "COMP",
@@ -7875,7 +7883,7 @@
         },
         "exexwvt6vyyxejfzf5bruxt5gzmpvznd48y3iwrrefmq": {
             "contractAddress": "EXExWvT6VyYxEjFzF5BrUxt5GZMPVZnd48y3iWrRefMq",
-            "decimals": null,
+            "decimals": 8,
             "name": "Enjin Coin",
             "cmcId": 2130,
             "symbol": "ENJ",
@@ -7883,7 +7891,7 @@
         },
         "hznpql7rt9gxf9ewowswzc5dfjzq41xtqgea7p3vzaad": {
             "contractAddress": "HZNpqL7RT9gxf9eWoWsWzC5DfjzQ41XTQgEA7p3VzaaD",
-            "decimals": null,
+            "decimals": 8,
             "name": "Trust Wallet Token",
             "cmcId": 5964,
             "symbol": "TWT",
@@ -7891,7 +7899,7 @@
         },
         "grass7b4rdkfbcjtkgsqnxkqjwigvqyfbuscujr3xxjs": {
             "contractAddress": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
-            "decimals": null,
+            "decimals": 9,
             "name": "Grass",
             "cmcId": 32956,
             "symbol": "GRASS",
@@ -7899,7 +7907,7 @@
         },
         "help6nuqkmyb4pywo2zys22meshxpqyzxbb8n4v98jwc": {
             "contractAddress": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
-            "decimals": null,
+            "decimals": 9,
             "name": "ai16z",
             "cmcId": 34026,
             "symbol": "AI16Z",
@@ -7907,7 +7915,7 @@
         },
         "ajkpkq3nsyde1ykcbyzt7n4ak4evv9om9tzhqd3wsrc": {
             "contractAddress": "AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC",
-            "decimals": null,
+            "decimals": 8,
             "name": "1inch Network",
             "cmcId": 8104,
             "symbol": "1INCH",
@@ -7915,7 +7923,7 @@
         },
         "f6v4wfadjb8d8p77bmxzgyt8tdksyxlyxh5afhukyx9w": {
             "contractAddress": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
-            "decimals": null,
+            "decimals": 6,
             "name": "Terra Classic",
             "cmcId": 4172,
             "symbol": "LUNC",
@@ -7923,7 +7931,7 @@
         },
         "9bb6nfecjbctnnlfko2fqvqbq8hhm13kcyycdqbgpump": {
             "contractAddress": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Fartcoin",
             "cmcId": 33597,
             "symbol": "FARTCOIN",
@@ -7931,7 +7939,7 @@
         },
         "8ctnutcv2uec3royj642urnvtxorjawlzc58gxao7y56": {
             "contractAddress": "8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56",
-            "decimals": null,
+            "decimals": 8,
             "name": "Synthetix",
             "cmcId": 2586,
             "symbol": "SNX",
@@ -7939,7 +7947,7 @@
         },
         "s3sqfd6rhemxq3eeyn1z5sjsbtwfxdt7tsavxpqftyo": {
             "contractAddress": "S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo",
-            "decimals": null,
+            "decimals": 8,
             "name": "Oasis",
             "cmcId": 7653,
             "symbol": "ROSE",
@@ -7947,7 +7955,7 @@
         },
         "epeufdghrxs9xxepval6kfgqvcon7jmawkvuhuux1tpz": {
             "contractAddress": "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz",
-            "decimals": null,
+            "decimals": 8,
             "name": "Basic Attention Token",
             "cmcId": 1697,
             "symbol": "BAT",
@@ -7955,7 +7963,7 @@
         },
         "63lfdmnb3mq8mw9mtz2to9bea2m71kzuugq5tijxcqj9": {
             "contractAddress": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
-            "decimals": null,
+            "decimals": 5,
             "name": "Gigachad",
             "cmcId": 30063,
             "symbol": "GIGA",
@@ -7963,7 +7971,7 @@
         },
         "7dukuopcnww6ccu4erxchh1uimh32zdrmgf6ufqhxann": {
             "contractAddress": "7dUKUopcNWW6CcU4eRxCHh1uiMh32zDrmGf6ufqhxann",
-            "decimals": null,
+            "decimals": 1,
             "name": "Baby Doge Coin",
             "cmcId": 10407,
             "symbol": "BabyDoge",
@@ -7971,7 +7979,7 @@
         },
         "7gcihgdb8fe6knjn2mytkzzcrjqy3t9ghdc8uhymw2hr": {
             "contractAddress": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
-            "decimals": null,
+            "decimals": 9,
             "name": "Popcat (SOL)",
             "cmcId": 28782,
             "symbol": "POPCAT",
@@ -7979,7 +7987,7 @@
         },
         "mew1gqwj3nexg2qgeriku7fafj79phvqvrequzscpp5": {
             "contractAddress": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
-            "decimals": null,
+            "decimals": 5,
             "name": "cat in a dogs world",
             "cmcId": 30126,
             "symbol": "MEW",
@@ -7987,7 +7995,7 @@
         },
         "dm5bxymetg3aq5pag1brg7rbyqemtnkjvpnmexfacvk7": {
             "contractAddress": "Dm5BxyMetG3Aq5PaG1BrG7rBYqEMtnkjvPNMExfacVk7",
-            "decimals": null,
+            "decimals": 9,
             "name": "Aethir",
             "cmcId": 30083,
             "symbol": "ATH",
@@ -7995,7 +8003,7 @@
         },
         "2dyzu65qa9zdx1uee7gx71k7fiwyuk6szdrvj7auq5wm": {
             "contractAddress": "2Dyzu65QA9zdX1UeE7Gx71k7fiwyUK6sZdrvJ7auq5wm",
-            "decimals": null,
+            "decimals": 8,
             "name": "Turbo",
             "cmcId": 24911,
             "symbol": "TURBO",
@@ -8003,7 +8011,7 @@
         },
         "blvmrccp4g1b6spivvmqrludya1nz4b2d1nm9jzkf7sz": {
             "contractAddress": "BLvmrccP4g1B6SpiVvmQrLUDya1nZ4B2D1nm9jzKF7sz",
-            "decimals": null,
+            "decimals": 8,
             "name": "Convex Finance",
             "cmcId": 9903,
             "symbol": "CVX",
@@ -8011,7 +8019,7 @@
         },
         "gq2norj1kbembp3mpfkgaumhmmmnfmy4zeyi26trcxfb": {
             "contractAddress": "Gq2norJ1kBemBp3mPfkgAUMhMMmnFmY4zEyi26tRcxFB",
-            "decimals": null,
+            "decimals": 8,
             "name": "Ankr",
             "cmcId": 3783,
             "symbol": "ANKR",
@@ -8019,7 +8027,7 @@
         },
         "h2mf9qndu2niq6qr7367ua2trbsvsclyx5bz7r3pw5se": {
             "contractAddress": "H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE",
-            "decimals": null,
+            "decimals": 8,
             "name": "Lido Staked ETH",
             "cmcId": 8085,
             "symbol": "stETH",
@@ -8027,7 +8035,7 @@
         },
         "7vfcxtuxx5wjv5jadk17duj4ksgau7utnkj4b963voxs": {
             "contractAddress": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
-            "decimals": null,
+            "decimals": 8,
             "name": "WETH",
             "cmcId": 2396,
             "symbol": "WETH",
@@ -8035,7 +8043,7 @@
         },
         "3nz9jmvbmgaqocybic2c7lqcjscmgsaz6vqqtdzcqmjh": {
             "contractAddress": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
-            "decimals": null,
+            "decimals": 8,
             "name": "Wrapped Bitcoin",
             "cmcId": 3717,
             "symbol": "WBTC",
@@ -8043,7 +8051,7 @@
         },
         "hda3zjc12ahykssbrvgiwzr6wlebyf36yzkkbvvy4gnf": {
             "contractAddress": "HDa3zJc12ahykSsBRvgiWzr6WLEByf36yzKKbVvy4gnF",
-            "decimals": null,
+            "decimals": 6,
             "name": "Solana Swap",
             "cmcId": 33110,
             "symbol": "SOS",
@@ -8051,7 +8059,7 @@
         },
         "fr87nweuxvgerfghzm8y4aggkglnaxswr1pd8wz4kzcp": {
             "contractAddress": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
-            "decimals": null,
+            "decimals": 8,
             "name": "Frax",
             "cmcId": 6952,
             "symbol": "FRAX",
@@ -8059,7 +8067,7 @@
         },
         "6dkcowjpj5mfu5gwdefdpuuebasblk3wlewhuzqpaa1e": {
             "contractAddress": "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e",
-            "decimals": null,
+            "decimals": 8,
             "name": "Chintai",
             "cmcId": 8534,
             "symbol": "CHEX",
@@ -8067,7 +8075,7 @@
         },
         "a1klobrkbde8ty9qtnqutq3c2ortoc3u7twggz7seto6": {
             "contractAddress": "A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6",
-            "decimals": null,
+            "decimals": 6,
             "name": "Ondo US Dollar Yield",
             "cmcId": 29256,
             "symbol": "USDY",
@@ -8075,7 +8083,7 @@
         },
         "j1toso1uck3rlmjorhttrvwy9hj7x8v9yyac6y7kgcpn": {
             "contractAddress": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
-            "decimals": null,
+            "decimals": 9,
             "name": "Jito Staked SOL",
             "cmcId": 22533,
             "symbol": "JITOSOL",
@@ -8083,7 +8091,7 @@
         },
         "aqs5ydqkxek2cjotdxxhmk8n9pknqq5q4zed4ymy1eeh": {
             "contractAddress": "Aqs5ydqKXEK2cjotDXxHmk8N9PknqQ5q4ZED4ymY1eeh",
-            "decimals": null,
+            "decimals": 8,
             "name": "NXM",
             "cmcId": 5830,
             "symbol": "NXM",
@@ -8091,7 +8099,7 @@
         },
         "9gp2kcy3wa1ctvywqk75guqxuhfreomqydhltctcqila": {
             "contractAddress": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
-            "decimals": null,
+            "decimals": 8,
             "name": "Wrapped BNB",
             "cmcId": 7192,
             "symbol": "WBNB",
@@ -8099,7 +8107,7 @@
         },
         "dpgnkzjag2w1s6vfyhdbt62r4qrwwh5f45cnxtbqduze": {
             "contractAddress": "DPgNKZJAG2w1S6vfYHDBT62R4qrWWH5f45CnxtbQduZE",
-            "decimals": null,
+            "decimals": 8,
             "name": "Tribe",
             "cmcId": 9025,
             "symbol": "TRIBE",
@@ -8107,7 +8115,7 @@
         },
         "msolzycxhdygdzu16g5qsh3i5k3z3kzk7ytfqcjm7so": {
             "contractAddress": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
-            "decimals": null,
+            "decimals": 9,
             "name": "Marinade Staked SOL",
             "cmcId": 11461,
             "symbol": "MSOL",
@@ -8115,7 +8123,7 @@
         },
         "8bmzmi2xxzn9aframx5z6fauk9fohxqv5cltcywrcvje": {
             "contractAddress": "8BMzMi2XxZn9afRaMx5Z6fauk9foHXqV5cLTCYWRcVje",
-            "decimals": null,
+            "decimals": 9,
             "name": "Staika",
             "cmcId": 23951,
             "symbol": "STIK",
@@ -8123,7 +8131,7 @@
         },
         "3dqtr7ror2qpkq3gbbcokjumjergg8ktjzdnyjnfvi3z": {
             "contractAddress": "3dQTr7ror2QPKQ3GbBCokJUmjErGg8kTJzdnYjNfvi3Z",
-            "decimals": null,
+            "decimals": 9,
             "name": "SwissBorg",
             "cmcId": 2499,
             "symbol": "BORG",
@@ -8131,7 +8139,7 @@
         },
         "metaewgxypbgwsseh8t16a39cq5vyvxzi9zxidpy18m": {
             "contractAddress": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
-            "decimals": null,
+            "decimals": 6,
             "name": "Metaplex",
             "cmcId": 21870,
             "symbol": "MPLX",
@@ -8139,7 +8147,7 @@
         },
         "bxzx2jrjfjvkazm1ibedfxgangkexb74mrxzxkvgikxx": {
             "contractAddress": "BXZX2JRJFjvKazM1ibeDFxgAngKExb74MRXzXKvgikxX",
-            "decimals": null,
+            "decimals": 8,
             "name": "yearn.finance",
             "cmcId": 5864,
             "symbol": "YFI",
@@ -8147,7 +8155,7 @@
         },
         "7saitveqk9vpjswhopt45opxubbp5z8xvfjisjz6vdhb": {
             "contractAddress": "7sAiTVEQK9VPjsWHoPt45oPXUbBP5Z8XVfjiSjZ6Vdhb",
-            "decimals": null,
+            "decimals": 9,
             "name": "ERC20",
             "cmcId": 2165,
             "symbol": "ERC20",
@@ -8155,7 +8163,7 @@
         },
         "bso13r4tkie4kuml71lshtppl2eubylfx6h9hp3piy1": {
             "contractAddress": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
-            "decimals": null,
+            "decimals": 9,
             "name": "BlazeStake Staked SOL",
             "cmcId": 28862,
             "symbol": "BSOL",
@@ -8163,7 +8171,7 @@
         },
         "5ovnbeeeqvyi1cx3ir8dx5n1p7pdxydbgf2x4txvusjm": {
             "contractAddress": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
-            "decimals": null,
+            "decimals": 9,
             "name": "Sanctum Infinity",
             "cmcId": 12760,
             "symbol": "INF",
@@ -8171,7 +8179,7 @@
         },
         "bzlbgtncsffoth2gydtwr7e4imwzpr5jqcuugewr646k": {
             "contractAddress": "BZLbGTNCSFfoth2GYDtwr7e4imWzpR5jqcUuGEwr646K",
-            "decimals": null,
+            "decimals": 8,
             "name": "io.net",
             "cmcId": 29835,
             "symbol": "IO",
@@ -8179,7 +8187,7 @@
         },
         "driftupjyltosbwon8kombeysx54afavlddwsbksjwg7": {
             "contractAddress": "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
-            "decimals": null,
+            "decimals": 6,
             "name": "Drift",
             "cmcId": 31278,
             "symbol": "DRIFT",
@@ -8187,7 +8195,7 @@
         },
         "61v8vbaqagmpgdqi4jcawo1dmbghsyhzodcpqnevpump": {
             "contractAddress": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "AI Rig Complex",
             "cmcId": 34926,
             "symbol": "ARC",
@@ -8195,7 +8203,7 @@
         },
         "3kzae8dpyjrgz36eh81v7wpwi6dm7bdhdmb8eaus2raf": {
             "contractAddress": "3KzAE8dPyJRgZ36Eh81v7WPwi6dm7bDhdMb8EAus2RAf",
-            "decimals": null,
+            "decimals": 9,
             "name": "GoМining",
             "cmcId": 10180,
             "symbol": "GOMINING",
@@ -8203,7 +8211,7 @@
         },
         "fczkwhd9qn1eqj8ffunlb8dupawcojjnepbmqyhhs77b": {
             "contractAddress": "FCZKwHd9Qn1EQj8fFuNLB8dupAWCoJJNePbMqyHhS77b",
-            "decimals": null,
+            "decimals": 8,
             "name": "XYO",
             "cmcId": 2765,
             "symbol": "XYO",
@@ -8211,7 +8219,7 @@
         },
         "mefnbxixkebait3xn9bkm8wsjzxtvsajen4c8sam21u": {
             "contractAddress": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
-            "decimals": null,
+            "decimals": 6,
             "name": "Magic Eden",
             "cmcId": 32197,
             "symbol": "ME",
@@ -8219,7 +8227,7 @@
         },
         "7i5kksx2weitkry7ja4zwsuxghs5ejbejy8vvxr4pfrx": {
             "contractAddress": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
-            "decimals": null,
+            "decimals": 9,
             "name": "GMT",
             "cmcId": 18069,
             "symbol": "GMT",
@@ -8227,7 +8235,7 @@
         },
         "6dnsn2bjsapfdffc1zp37kkene4usc1sqkzr9c9vpwcu": {
             "contractAddress": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
-            "decimals": null,
+            "decimals": 8,
             "name": "tBTC",
             "cmcId": 26133,
             "symbol": "TBTC",
@@ -8235,7 +8243,7 @@
         },
         "4xejo9gzkkom3e26nqiidjlawwm9kbt76gumddge1meq": {
             "contractAddress": "4XEjo9GZkKom3E26NQiidJLawwM9kbt76gUMDdGe1meQ",
-            "decimals": null,
+            "decimals": 8,
             "name": "Waves",
             "cmcId": 1274,
             "symbol": "WAVES",
@@ -8243,7 +8251,7 @@
         },
         "hctvftzhl21a1dpzkxauewwqbe8qmuyvgchfdl4xyoi1": {
             "contractAddress": "HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1",
-            "decimals": null,
+            "decimals": 8,
             "name": "Loopring",
             "cmcId": 1934,
             "symbol": "LRC",
@@ -8251,7 +8259,7 @@
         },
         "gjafwwjj3vntsrqvabjbvk2tyb1ytrcqxrdfdgunpump": {
             "contractAddress": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Act I : The AI Prophecy",
             "cmcId": 33566,
             "symbol": "ACT",
@@ -8259,7 +8267,7 @@
         },
         "bioj9jtqw62mlz7ukhu69gtkhppgi1bqhccj2kmsvuj": {
             "contractAddress": "bioJ9JTqW62MLz7UKHU69gtKhPpGi1BQhccj2kmSvUJ",
-            "decimals": null,
+            "decimals": 9,
             "name": "Bio Protocol",
             "cmcId": 34812,
             "symbol": "BIO",
@@ -8267,7 +8275,7 @@
         },
         "4vmsout2bwatfweudnqm1xedrlfjgj7hswhcpz4xgbty": {
             "contractAddress": "4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy",
-            "decimals": null,
+            "decimals": 9,
             "name": "Hivemapper",
             "cmcId": 22850,
             "symbol": "HONEY",
@@ -8275,7 +8283,7 @@
         },
         "4hx6bj56egyw8ejrrhem6lbqavvyrikycwsaletrwyru": {
             "contractAddress": "4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU",
-            "decimals": null,
+            "decimals": 8,
             "name": "dYdX (ethDYDX)",
             "cmcId": 11156,
             "symbol": "ETHDYDX",
@@ -8283,7 +8291,7 @@
         },
         "6lx8bhmq4sy2otmawj7y5skd9ytvvugfmsbzt6b9w7ct": {
             "contractAddress": "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct",
-            "decimals": null,
+            "decimals": 8,
             "name": "Frax Share",
             "cmcId": 6953,
             "symbol": "FXS",
@@ -8291,7 +8299,7 @@
         },
         "2qehjdldlbubgryvsxhc5d6udwaivnfzgan56p1tpump": {
             "contractAddress": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Peanut the Squirrel",
             "cmcId": 33788,
             "symbol": "PNUT",
@@ -8299,7 +8307,7 @@
         },
         "26f12pmbk77wqv1tzle8xkknbvmfggbuypxdtmlznlzz": {
             "contractAddress": "26f12PmBk77wQV1TzLe8XKkNBvMFggbuypxdtMLzNLzz",
-            "decimals": null,
+            "decimals": 8,
             "name": "ZIGChain",
             "cmcId": 9260,
             "symbol": "ZIG",
@@ -8307,7 +8315,7 @@
         },
         "echesyfxepkdltoizsl8pbe8myagyy8zrqsacncfgnvp": {
             "contractAddress": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
-            "decimals": null,
+            "decimals": 6,
             "name": "Solana Name Service",
             "cmcId": 7978,
             "symbol": "FIDA",
@@ -8315,7 +8323,7 @@
         },
         "flux1wa2gmbtsb6zgi2ptnbvcw3zeeknapckptfxxqxe": {
             "contractAddress": "FLUX1wa2GmbtSB6ZGi2pTNbVCw3zEeKnaPCkPtFXxqXe",
-            "decimals": null,
+            "decimals": 8,
             "name": "Flux",
             "cmcId": 3029,
             "symbol": "FLUX",
@@ -8323,7 +8331,7 @@
         },
         "layer4xpptcb3ql8s9u41eahax7mhbn8q6xmtwy2yzc": {
             "contractAddress": "LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc",
-            "decimals": null,
+            "decimals": 9,
             "name": "Solayer",
             "cmcId": 35429,
             "symbol": "LAYER",
@@ -8331,7 +8339,7 @@
         },
         "bcsfxym81iqxyymrlkgap3aepcglhnirb8fjts6sjm7u": {
             "contractAddress": "BCsFXYm81iqXyYmrLKgAp3AePcgLHnirb8FjTs6sjM7U",
-            "decimals": null,
+            "decimals": 8,
             "name": "Spell Token",
             "cmcId": 11289,
             "symbol": "SPELL",
@@ -8339,7 +8347,7 @@
         },
         "fkmodwcm4yultklnmo7vhs4hlpvm8ibvljhtj9yhmr9h": {
             "contractAddress": "FkmodwcM4YULTKLNMo7VHs4HLPvm8iBVLJHTj9YhMr9h",
-            "decimals": null,
+            "decimals": 8,
             "name": "Neiro (First Neiro On Ethereum)",
             "cmcId": 32521,
             "symbol": "NEIRO",
@@ -8347,7 +8355,7 @@
         },
         "ukhh6c7mmyiwcf1b9pnwe25tspkddt3h5pqzgz74j82": {
             "contractAddress": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
-            "decimals": null,
+            "decimals": 6,
             "name": "BOOK OF MEME",
             "cmcId": 29870,
             "symbol": "BOME",
@@ -8355,7 +8363,7 @@
         },
         "9lzcmqdgtkyz9drzqnpgee3sga89up3a247ypmj2xrqm": {
             "contractAddress": "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM",
-            "decimals": null,
+            "decimals": 8,
             "name": "Audius",
             "cmcId": 7455,
             "symbol": "AUDIO",
@@ -8363,7 +8371,7 @@
         },
         "zebeczgi5fsetbpfqkvzkcj3wgyxxjkmuknnx7flkaf": {
             "contractAddress": "zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF",
-            "decimals": null,
+            "decimals": 9,
             "name": "Zebec",
             "cmcId": 18860,
             "symbol": "ZBC",
@@ -8371,7 +8379,7 @@
         },
         "hax9ltgsqkze1yfychnbltfh8gybqktkfwkkg2sp6gdd": {
             "contractAddress": "Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD",
-            "decimals": null,
+            "decimals": 9,
             "name": "TARS AI",
             "cmcId": 20605,
             "symbol": "TAI",
@@ -8379,7 +8387,7 @@
         },
         "zbcnpud7ymxzthb2fhgkgi78mnshglrxuhrewnrm9ru": {
             "contractAddress": "ZBCNpuD7YMXzTHB2fhGkGi78MNsHGLRXUhRewNRm9RU",
-            "decimals": null,
+            "decimals": 6,
             "name": "Zebec Network",
             "cmcId": 30636,
             "symbol": "ZBCN",
@@ -8387,7 +8395,7 @@
         },
         "tnsrxcuxot9xbg3de7pijytdyu7ksklqcpddxnejas6": {
             "contractAddress": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
-            "decimals": null,
+            "decimals": 9,
             "name": "Tensor",
             "cmcId": 30449,
             "symbol": "TNSR",
@@ -8395,7 +8403,7 @@
         },
         "ctgiazuk12kccb8sosn4nt2nztzlgtpqdwyqyr2syatc": {
             "contractAddress": "CTgiaZUK12kCcB8sosn4Nt2NZtzLgtPqDwyQyr2syATC",
-            "decimals": null,
+            "decimals": 8,
             "name": "HarryPotterObamaSonic10Inu (ERC-20)",
             "cmcId": 25220,
             "symbol": "BITCOIN",
@@ -8403,7 +8411,7 @@
         },
         "7zcm8wbn9ala3o47soyctu6ildj7wkgg5sv2he5cgtd5": {
             "contractAddress": "7ZCm8WBN9aLa3o47SoYctU6iLdj7wkGG5SV2hE5CgtD5",
-            "decimals": null,
+            "decimals": 4,
             "name": "Dogelon Mars",
             "cmcId": 9436,
             "symbol": "ELON",
@@ -8411,7 +8419,7 @@
         },
         "orcaektdk7lkz57vaayr9qensvepfiu6qemu1kektze": {
             "contractAddress": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
-            "decimals": null,
+            "decimals": 6,
             "name": "Orca",
             "cmcId": 11165,
             "symbol": "ORCA",
@@ -8419,7 +8427,7 @@
         },
         "ezzp7lrn1xwu3qsb2rjrrwwegjjgsuwzumceqdb3nspk": {
             "contractAddress": "EzZp7LRN1xwu3QsB2RJRrWwEGjJGsuWzuMCeQDB3NSPK",
-            "decimals": null,
+            "decimals": 8,
             "name": "Yield Guild Games",
             "cmcId": 10688,
             "symbol": "YGG",
@@ -8427,7 +8435,7 @@
         },
         "64l6o4g2h7ln1vn7ahzsumw4pbfcihyuwn4wudsbcfxh": {
             "contractAddress": "64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh",
-            "decimals": null,
+            "decimals": 8,
             "name": "Keep Network",
             "cmcId": 5566,
             "symbol": "KEEP",
@@ -8435,7 +8443,7 @@
         },
         "hzwqbkzw8hxmn6bf2yfznrht3c2ixxzpkcfu7ubedktr": {
             "contractAddress": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
-            "decimals": null,
+            "decimals": 6,
             "name": "EURC",
             "cmcId": 20641,
             "symbol": "EURC",
@@ -8443,7 +8451,7 @@
         },
         "9vmjfxukxxboea7rm12mylmwtaclmldjqhozw96wql8i": {
             "contractAddress": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
-            "decimals": null,
+            "decimals": 6,
             "name": "TerraClassicUSD",
             "cmcId": 7129,
             "symbol": "USTC",
@@ -8451,7 +8459,7 @@
         },
         "4hpngep1v3cxpekb81gw4sv7yvwuvrkvy3sgag9nd8q4": {
             "contractAddress": "4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4",
-            "decimals": null,
+            "decimals": 0,
             "name": "Smooth Love Potion",
             "cmcId": 5824,
             "symbol": "SLP",
@@ -8459,7 +8467,7 @@
         },
         "cobcsurt3p91fwvulykorqejgsm5hoqdv5t8ruz6pnla": {
             "contractAddress": "CobcsUrt3p91FwvULYKorQejgsm5HoQdv5T8RUZ6PnLA",
-            "decimals": null,
+            "decimals": 8,
             "name": "ConstitutionDAO",
             "cmcId": 14806,
             "symbol": "PEOPLE",
@@ -8467,7 +8475,7 @@
         },
         "7jnhppjbbkstj7iemsigsbcpjgbckw28ucrxtqgimncp": {
             "contractAddress": "7JnHPPJBBKSTJ7iEmsiGSBcPJgbcKw28uCRXtQgimncp",
-            "decimals": null,
+            "decimals": 8,
             "name": "Orbs",
             "cmcId": 3835,
             "symbol": "ORBS",
@@ -8475,7 +8483,7 @@
         },
         "czlsujwblfssjncfkh59rufqvafwcy5tzedwjsuypump": {
             "contractAddress": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Goatseus Maximus",
             "cmcId": 33440,
             "symbol": "GOAT",
@@ -8483,7 +8491,7 @@
         },
         "bo9jh3wsmcc2ajaklwznmkj3sgtzmxecsaw7l2favusu": {
             "contractAddress": "Bo9jh3wsmcC2AjakLWzNmKJ3SgtZmXEcSaW7L2FAvUsU",
-            "decimals": null,
+            "decimals": 6,
             "name": "LIBRA",
             "cmcId": 35767,
             "symbol": "LIBRA",
@@ -8491,7 +8499,7 @@
         },
         "8bube1ujsm1g3jebbwvvcxa2widmupdkub2rgkmyfw7r": {
             "contractAddress": "8bUbe1ujsM1G3JEbBWVVCXa2widmuPdKUB2rGKMYFw7R",
-            "decimals": null,
+            "decimals": 8,
             "name": "Delysium",
             "cmcId": 24007,
             "symbol": "AGI",
@@ -8499,7 +8507,7 @@
         },
         "kenjsuylashumfhyy5o4hp2fdnqzg1asuphfh2kyvep": {
             "contractAddress": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
-            "decimals": null,
+            "decimals": 6,
             "name": "GRIFFAIN",
             "cmcId": 34792,
             "symbol": "GRIFFAIN",
@@ -8507,7 +8515,7 @@
         },
         "7dnmws2ye6ne1px81b9xpm7zuhfxmqabquihhzwxiebn": {
             "contractAddress": "7dnMwS2yE6NE1PX81B9Xpm7zUhFXmQABqUiHHzWXiEBn",
-            "decimals": null,
+            "decimals": 8,
             "name": "Adventure Gold",
             "cmcId": 11568,
             "symbol": "AGLD",
@@ -8515,7 +8523,7 @@
         },
         "hvbpjaqgnpkgbaybzqbr1t7yfdvayvp2vcqqfkken4tm": {
             "contractAddress": "HVbpJAQGNpkgBaYBZQBR1t7yFdvaYVp2vCQQfKKEN4tM",
-            "decimals": null,
+            "decimals": 6,
             "name": "Pax Dollar",
             "cmcId": 3330,
             "symbol": "USDP",
@@ -8523,7 +8531,7 @@
         },
         "c98a4nkjxhpvznazdhua95rptf3t4whtqubl3yobiux9": {
             "contractAddress": "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9",
-            "decimals": null,
+            "decimals": 6,
             "name": "Coin98",
             "cmcId": 10903,
             "symbol": "C98",
@@ -8531,7 +8539,7 @@
         },
         "afjtnuqgmaj5jao6pwxo28r1f7xaxxtsa8q3rg3q8b4a": {
             "contractAddress": "AFJtnuqGMaj5jAo6Pwxo28r1f7XAXXTSA8q3rG3q8b4A",
-            "decimals": null,
+            "decimals": 6,
             "name": "CARV",
             "cmcId": 33372,
             "symbol": "CARV",
@@ -8539,7 +8547,7 @@
         },
         "5maydfq5yxtudahtfyumbuhzjgabas9tbeyeqyahds5y": {
             "contractAddress": "5MAYDfq5yxtudAhtfyuMBuHZjgAbaS9tbEyEQYAhDS5y",
-            "decimals": null,
+            "decimals": 6,
             "name": "Access Protocol",
             "cmcId": 23195,
             "symbol": "ACS",
@@ -8547,7 +8555,7 @@
         },
         "ez3nzg9ofodycvemw73xhq87lwnyvrm2s7dib5tbzpym": {
             "contractAddress": "Ez3nzG9ofodYCvEmw73XhQ87LWNYVRM2s7diB5tBZPyM",
-            "decimals": null,
+            "decimals": 8,
             "name": "Autonolas",
             "cmcId": 28458,
             "symbol": "OLAS",
@@ -8555,7 +8563,7 @@
         },
         "begy8kqkxboewrbjd1q9h2k829js4rc5deynmyxcbv5p": {
             "contractAddress": "BeGY8KqKxboEwRbJd1q9H2K829jS4Rc5dEyNMYXCbV5p",
-            "decimals": null,
+            "decimals": 8,
             "name": "Non-Playable Coin",
             "cmcId": 27960,
             "symbol": "NPC",
@@ -8563,7 +8571,7 @@
         },
         "gz7vkd4macbeb6yc5xd3hcumeiyx2etdyyrfikgsvopg": {
             "contractAddress": "Gz7VkD4MacbEB6yC5XD3HcumEiYx2EtDYYrfikGsvopG",
-            "decimals": null,
+            "decimals": 8,
             "name": "Wrapped Matic",
             "cmcId": 8925,
             "symbol": "WMATIC",
@@ -8571,7 +8579,7 @@
         },
         "5z3eqyqo9hices3r84rcdmu2n7anpdmxrhdk8pswmrrc": {
             "contractAddress": "5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC",
-            "decimals": null,
+            "decimals": 9,
             "name": "Ponke",
             "cmcId": 29150,
             "symbol": "PONKE",
@@ -8579,7 +8587,7 @@
         },
         "3jomreccsesngjepflokr2dncchjsrcdtybqet5uspse": {
             "contractAddress": "3joMReCCSESngJEpFLoKR2dNcChjSRCDtybQet5uSpse",
-            "decimals": null,
+            "decimals": 6,
             "name": "Simon's Cat",
             "cmcId": 32724,
             "symbol": "CAT",
@@ -8587,7 +8595,7 @@
         },
         "9pr7ncp9dpcuotndpvlubuzku5waykwrcux9wdnspump": {
             "contractAddress": "9PR7nCP9DpcUotnDPVLUBUZKu5WAYkwrCUx9wDnSpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Comedian",
             "cmcId": 33881,
             "symbol": "BAN",
@@ -8595,7 +8603,7 @@
         },
         "9wvorgtbj8gylorftmwxwcympogvubn6mrzhwfpcdcec": {
             "contractAddress": "9wvorGtBJ8gyLorFTmwXWcymPoGVUBn6MRzHwFpCdCeC",
-            "decimals": null,
+            "decimals": 8,
             "name": "Artificial Liquid Intelligence",
             "cmcId": 16876,
             "symbol": "ALI",
@@ -8603,7 +8611,7 @@
         },
         "nosxbvoacttydlvky6csb4ac8jcdqkkaawytx2zmoo7": {
             "contractAddress": "nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7",
-            "decimals": null,
+            "decimals": 6,
             "name": "Nosana",
             "cmcId": 16612,
             "symbol": "NOS",
@@ -8611,7 +8619,7 @@
         },
         "9dzszfvpskdoy2gdwersuz2h1o4tbzvgbhrnz9cvkd2j": {
             "contractAddress": "9dzSzFvPsKDoY2gdWErsuz2H1o4tbzvgBhrNZ9cvkD2j",
-            "decimals": null,
+            "decimals": 8,
             "name": "SmarDex",
             "cmcId": 24203,
             "symbol": "SDEX",
@@ -8619,7 +8627,7 @@
         },
         "agriduxledij9cjprkzx7wbxttqc67jtfiwz293mvrj": {
             "contractAddress": "AGRidUXLeDij9CJprkZx7WBXtTQC67jtfiwz293mVrJ",
-            "decimals": null,
+            "decimals": 6,
             "name": "AgriDex",
             "cmcId": 34386,
             "symbol": "AGRI",
@@ -8627,7 +8635,7 @@
         },
         "46a6cldmxzjxp1xvyvmwhjva5qhkgsrcmc7nyyvkd7as": {
             "contractAddress": "46A6CLdmXzJXP1xVYvmWhJVA5QHkgSrcMC7nYYVkd7As",
-            "decimals": null,
+            "decimals": 6,
             "name": "ALL BEST ICO",
             "cmcId": 5024,
             "symbol": "ALLBI",
@@ -8635,7 +8643,7 @@
         },
         "9mcvh6w97oewlmpxqqeohuav3u5iymyq9aezzhguyf1t": {
             "contractAddress": "9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T",
-            "decimals": null,
+            "decimals": 9,
             "name": "Hey Anon",
             "cmcId": 35092,
             "symbol": "ANON",
@@ -8643,7 +8651,7 @@
         },
         "33fsbla8djqm82rphme3suvrpgtzbwnyexseuekx1hxx": {
             "contractAddress": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
-            "decimals": null,
+            "decimals": 8,
             "name": "BUSD",
             "cmcId": 4687,
             "symbol": "BUSD",
@@ -8651,7 +8659,7 @@
         },
         "edvveyw4fpj6vkw5lzxrguspzxohrv6ewvtqhcr8oshs": {
             "contractAddress": "EDVVEYW4fPJ6vKw5LZXRGUSPzxoHrv6eWvTqhCr8oShs",
-            "decimals": null,
+            "decimals": 8,
             "name": "Bancor",
             "cmcId": 1727,
             "symbol": "BNT",
@@ -8659,7 +8667,7 @@
         },
         "7ja5ezdczztsfqbjvs8avvxmffd81rs9vvwnocv1mkhu": {
             "contractAddress": "7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu",
-            "decimals": null,
+            "decimals": 9,
             "name": "GEODNET",
             "cmcId": 20969,
             "symbol": "GEOD",
@@ -8667,7 +8675,7 @@
         },
         "6fvylvhqsshwvuscq2fjrr1mrecgshc3qxbwwtgivfwk": {
             "contractAddress": "6FVyLVhQsShWVUsCq2FJRr1MrECGShc3QxBwWtgiVFwK",
-            "decimals": null,
+            "decimals": 8,
             "name": "Bitget Wallet Token",
             "cmcId": 31503,
             "symbol": "BWB",
@@ -8675,7 +8683,7 @@
         },
         "mb1eu7tzec71kxdpsmskoucssuuoglv1drys1op2jh6": {
             "contractAddress": "mb1eu7TzEc71KxDpsmsKoucSSuuoGLv1drys1oP2jh6",
-            "decimals": null,
+            "decimals": 6,
             "name": "Helium Mobile",
             "cmcId": 24600,
             "symbol": "MOBILE",
@@ -8683,7 +8691,7 @@
         },
         "fvgqhmfl9yn39v79hudpy3yundoyjpulwng2jfmqpump": {
             "contractAddress": "FvgqHMfL9yn39V79huDPy3YUNDoYJpuLWng2JfmQpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Urolithin A",
             "cmcId": 34090,
             "symbol": "$URO",
@@ -8691,7 +8699,7 @@
         },
         "9arqsbfan65q522ceqsjuse3clha31jgwdbgqheiq7mg": {
             "contractAddress": "9ARQsBfAn65q522cEqSJuse3cLhA31jgWDBGQHeiq7Mg",
-            "decimals": null,
+            "decimals": 6,
             "name": "MyNeighborAlice",
             "cmcId": 8766,
             "symbol": "ALICE",
@@ -8699,7 +8707,7 @@
         },
         "6ajcp7wulwmrylbnbi825wgguapswzpbehchndprpump": {
             "contractAddress": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Vine Coin",
             "cmcId": 35421,
             "symbol": "VINE",
@@ -8707,7 +8715,7 @@
         },
         "shdwybxihqicj6yekg2gur7wqklelamk1ghzck9pl6y": {
             "contractAddress": "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y",
-            "decimals": null,
+            "decimals": 9,
             "name": "Shadow Token",
             "cmcId": 16868,
             "symbol": "SHDW",
@@ -8715,7 +8723,7 @@
         },
         "d7z8t6fadmqdyghy3lsmn3bzfrabmvvunafurkfuwz8f": {
             "contractAddress": "D7z8T6FadmqDYGHy3LsMN3bzfrABmvVUnAFUrKfuWZ8F",
-            "decimals": null,
+            "decimals": 6,
             "name": "Crypto-AI-Robo.com",
             "cmcId": 28670,
             "symbol": "CAIR",
@@ -8723,7 +8731,7 @@
         },
         "7bgbvyjrzx1ykz4oh9mjb8zscatkkwb8dzfx7loivkm3": {
             "contractAddress": "7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3",
-            "decimals": null,
+            "decimals": 9,
             "name": "SLERF",
             "cmcId": 29920,
             "symbol": "SLERF",
@@ -8731,7 +8739,7 @@
         },
         "neontjsjsuo3rexg9o6vhumxw62f9v7zvmu8m8zut44": {
             "contractAddress": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44",
-            "decimals": null,
+            "decimals": 9,
             "name": "Neon EVM",
             "cmcId": 23015,
             "symbol": "NEON",
@@ -8739,7 +8747,7 @@
         },
         "85am5xjhddeuw4mbgkm56zmwnsryh76zuvut97upjicg": {
             "contractAddress": "85aM5XJhdDeUw4MbGKM56zmWnsRyh76zUVut97uPjiCg",
-            "decimals": null,
+            "decimals": 8,
             "name": "DAO Maker",
             "cmcId": 8420,
             "symbol": "DAO",
@@ -8747,7 +8755,7 @@
         },
         "buoj8hczmnlrwzdmjzaswhkvhlzd58pg4pz7rnyp6pcr": {
             "contractAddress": "Buoj8HCZMnLRwzDmjzaswhkVhLZD58PG4pZ7rnYp6pCr",
-            "decimals": null,
+            "decimals": 3,
             "name": "McDull",
             "cmcId": 32866,
             "symbol": "MCDULL",
@@ -8755,7 +8763,7 @@
         },
         "7q2afv64in6n6sezsaab81tjzwdod6zpqmhkzi9dcavn": {
             "contractAddress": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
-            "decimals": null,
+            "decimals": 9,
             "name": "JPool Staked SOL (JSOL)",
             "cmcId": 14926,
             "symbol": "JSOL",
@@ -8763,7 +8771,7 @@
         },
         "gjtjuwd9qycckrwmbmty1tpapv1skfb2zuv9q4aqpump": {
             "contractAddress": "GJtJuWD9qYcCkrwMBmtY1tpapV1sKfB2zUv9Q4aqpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Rifampicin",
             "cmcId": 34089,
             "symbol": "$RIF",
@@ -8771,7 +8779,7 @@
         },
         "74sbv4zdxxtrgv1pemoecskkbkzhc2ygpnc7gyvepump": {
             "contractAddress": "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Swarms",
             "cmcId": 34993,
             "symbol": "SWARMS",
@@ -8779,7 +8787,7 @@
         },
         "bgwqjvnmwvt2d8cn51csbniwrwyz9h9hfhkesvikevuz": {
             "contractAddress": "BgwQjVNMWvt2d8CN51CsbniwRWyZ9H9HfHkEsvikeVuZ",
-            "decimals": null,
+            "decimals": 6,
             "name": "DEAPcoin",
             "cmcId": 5429,
             "symbol": "DEP",
@@ -8787,7 +8795,7 @@
         },
         "86t88w3mkt38hchtbkbweeb1rw1metceaw68qy2vpump": {
             "contractAddress": "86t88w3MKT38HChTBKBwEeb1RW1MeTceaW68qY2Vpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Limitus",
             "cmcId": 34746,
             "symbol": "LMT",
@@ -8795,7 +8803,7 @@
         },
         "heln8rsm1rp8vajnh4nyxzx6fvcbwwmgqlfamgibnzfv": {
             "contractAddress": "HELn8rSM1rp8vAjNH4NYXzX6FvCbwWMGqLfaMgiBnZFV",
-            "decimals": null,
+            "decimals": 11,
             "name": "Realio Network",
             "cmcId": 4166,
             "symbol": "RIO",
@@ -8803,7 +8811,7 @@
         },
         "6bn6rkwbtraqwizwqefcmpatoamnqzfg7f8dymk5reyn": {
             "contractAddress": "6bn6rKWbTRAQwizwqEfcmpAtoAMnqzfG7F8DYMK5reYn",
-            "decimals": null,
+            "decimals": 8,
             "name": "Wojak",
             "cmcId": 24502,
             "symbol": "WOJAK",
@@ -8811,7 +8819,7 @@
         },
         "afbx8ogjgpmvfywbvouvhqsrmiw2ar1mohfahi4y2adb": {
             "contractAddress": "AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB",
-            "decimals": null,
+            "decimals": 9,
             "name": "Green Satoshi Token (SOL)",
             "cmcId": 16352,
             "symbol": "GST",
@@ -8819,7 +8827,7 @@
         },
         "5mbk36sz7j19an8jfochhqs4of8g6bwujbecsxbsowdp": {
             "contractAddress": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp",
-            "decimals": null,
+            "decimals": 6,
             "name": "michi (SOL)",
             "cmcId": 30943,
             "symbol": "$MICHI",
@@ -8827,7 +8835,7 @@
         },
         "a8c3xuqscfmylrte3vmtqraq8kgmasius9afnanwpump": {
             "contractAddress": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Fwog (SOL)",
             "cmcId": 33291,
             "symbol": "FWOG",
@@ -8835,7 +8843,7 @@
         },
         "2oglxyunbjrcept1mev6knetald7bf6qq3cm6skasbfe": {
             "contractAddress": "2oGLxYuNBJRcepT1mEV6KnETaLD7Bf6qq3CM6skasBfe",
-            "decimals": null,
+            "decimals": 9,
             "name": "Pups (Bitcoin)",
             "cmcId": 33320,
             "symbol": "PUPS",
@@ -8843,7 +8851,7 @@
         },
         "app2sp9pgmqg7yd6uvaygulxalf4tpfalgnhhekjimih": {
             "contractAddress": "App2Sp9pgmQG7yD6uVaygULxALf4TpfALgnhHEkJimih",
-            "decimals": null,
+            "decimals": 9,
             "name": "Houdini Swap",
             "cmcId": 23396,
             "symbol": "LOCK",
@@ -8851,7 +8859,7 @@
         },
         "g8lfygvsjslzetj5rwzvahmo4h9cb58et1z6gezjqdpm": {
             "contractAddress": "G8LfyGVsjsLzetJ5RWZVAhMo4H9cb58ET1Z6gEZJQdPM",
-            "decimals": null,
+            "decimals": 8,
             "name": "AVA (Travala)",
             "cmcId": 2776,
             "symbol": "AVA",
@@ -8859,7 +8867,7 @@
         },
         "43vwkd99hjqkhftzbwbpmprhjg469nwa7x7uesgsh7we": {
             "contractAddress": "43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We",
-            "decimals": null,
+            "decimals": 9,
             "name": "Stonks",
             "cmcId": 10332,
             "symbol": "STNK",
@@ -8867,7 +8875,7 @@
         },
         "bu4ep1vcr99amxksmxhctx8ypqua7wbulq26xaqbazks": {
             "contractAddress": "BU4eP1vCR99amXKsMXhctX8YpqUa7wbULQ26XaQbazkS",
-            "decimals": null,
+            "decimals": 8,
             "name": "Dego Finance",
             "cmcId": 7087,
             "symbol": "DEGO",
@@ -8875,7 +8883,7 @@
         },
         "e9apbhb5xrvgp2l6qjixfjc5qwazecpufuxngx3wuind": {
             "contractAddress": "E9aPbhb5xRVGP2L6qJixfJC5qWAzECpUFUxnGx3wUiND",
-            "decimals": null,
+            "decimals": 8,
             "name": "Ice Open Network",
             "cmcId": 27650,
             "symbol": "ICE",
@@ -8883,7 +8891,7 @@
         },
         "cnymarr4krm1yaxfcvpxevnmarzzzk7srqkwx68ucejk": {
             "contractAddress": "CNyMaRR4krm1yAxfCvPXevNMArZZZk7sRqKwX68uCeJk",
-            "decimals": null,
+            "decimals": 9,
             "name": "Major Frog",
             "cmcId": 34041,
             "symbol": "MAJOR",
@@ -8891,7 +8899,7 @@
         },
         "el5fuxj2j4ciqsmw85k5fg9dvuqjjuobhoqbi2kpump": {
             "contractAddress": "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Unicorn Fart Dust",
             "cmcId": 34853,
             "symbol": "UFD",
@@ -8899,7 +8907,7 @@
         },
         "gfugxbmednlkhzajs3nyfqunqkfnmro9ukhyajexpump": {
             "contractAddress": "GFUgXbMeDnLkhZaJS3nYFqunqkFNMRo9ukhyajeXpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Evan",
             "cmcId": 34166,
             "symbol": "EVAN",
@@ -8907,7 +8915,7 @@
         },
         "ersznwsamwjr9hj2o18glwvytkooygbdptjmjuv72x8a": {
             "contractAddress": "ErSZNwsamWjR9Hj2o18GLwVyTkooyGbdptjMjuv72X8A",
-            "decimals": null,
+            "decimals": 2,
             "name": "Bitgert",
             "cmcId": 11079,
             "symbol": "BRISE",
@@ -8915,7 +8923,7 @@
         },
         "3dk98mxpz8truim7rfqnebslpa7vsoc79bgiee1m4zw5": {
             "contractAddress": "3DK98MXPz8TRuim7rfQnebSLpA7VSoc79Bgiee1m4Zw5",
-            "decimals": null,
+            "decimals": 9,
             "name": "Renzo",
             "cmcId": 30843,
             "symbol": "REZ",
@@ -8923,7 +8931,7 @@
         },
         "atlasxmbpqxbuybxpsv97usa3fpqyeqzqbuhgifcusxx": {
             "contractAddress": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
-            "decimals": null,
+            "decimals": 8,
             "name": "Star Atlas",
             "cmcId": 11212,
             "symbol": "ATLAS",
@@ -8931,7 +8939,7 @@
         },
         "39qibqxvzemuztevjsb7nephw9wyyhdqcqp8xmbmpump": {
             "contractAddress": "39qibQxVzemuZTEvjSB7NePhw9WyyHdQCqP8xmBMpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Memes AI",
             "cmcId": 33614,
             "symbol": "MemesAI",
@@ -8939,7 +8947,7 @@
         },
         "hng5pyjmtqcmzxrv6s9zp1cdkk5bgduyfbxbvnapump": {
             "contractAddress": "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Alchemist AI",
             "cmcId": 34880,
             "symbol": "ALCH",
@@ -8947,7 +8955,7 @@
         },
         "8x5vqbha8d7nkd52unus5nnt3pwa8pld34ymskeso2wn": {
             "contractAddress": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
-            "decimals": null,
+            "decimals": 6,
             "name": "Zerebro",
             "cmcId": 34083,
             "symbol": "ZEREBRO",
@@ -8955,7 +8963,7 @@
         },
         "hjw6bechtbhgpqr8ong3izfjy5djiwdt7uk2bfdspump": {
             "contractAddress": "Hjw6bEcHtbHGpQr8onG3izfJY5DJiWdt7uk2BfdSpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "SwarmNode.ai",
             "cmcId": 35064,
             "symbol": "SNAI",
@@ -8963,7 +8971,7 @@
         },
         "bmpsck8nwjqj8ccz3byxe6orfbmyddo8wmzxd2whm8t8": {
             "contractAddress": "Bmpsck8nwJqj8CcZ3ByxE6orFBMYDDo8wMzXd2WHm8T8",
-            "decimals": null,
+            "decimals": 6,
             "name": "TrumpElon CannationX",
             "cmcId": 1674,
             "symbol": "TECX",
@@ -8971,7 +8979,7 @@
         },
         "9bsnswdpfbussezfnxyz3un14cypmzyvskjwy3y8gbqn": {
             "contractAddress": "9BsnSWDPfbusseZfnXyZ3un14CyPMZYvsKjWY3Y8Gbqn",
-            "decimals": null,
+            "decimals": 8,
             "name": "Perpetual Protocol",
             "cmcId": 6950,
             "symbol": "PERP",
@@ -8979,7 +8987,7 @@
         },
         "43m2ewfv5ndepiefjt9emaqnc1hrtaf247rbplgfem5f": {
             "contractAddress": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
-            "decimals": null,
+            "decimals": 8,
             "name": "USDK",
             "cmcId": 4064,
             "symbol": "USDK",
@@ -8987,7 +8995,7 @@
         },
         "5svg3t9cnqsm2kewzbrq6hasqh1ogfjqttlxyuibpump": {
             "contractAddress": "5SVG3T9CNQsm2kEwzbRq6hASqh1oGfjqTtLXYUibpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "SIGMA",
             "cmcId": 32498,
             "symbol": "SIGMA",
@@ -8995,7 +9003,7 @@
         },
         "3n2etvnppnaxhcaxgkhkoy1ydnqfs41wnxsx5qnjpump": {
             "contractAddress": "3N2ETvNpPNAxhcaXgkhKoY1yDnQfs41Wnxsx5qNJpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "neur.sh",
             "cmcId": 35073,
             "symbol": "NEUR",
@@ -9003,7 +9011,7 @@
         },
         "7dvh61chzgmn9bwg4pkzwrp8pbywpj7zpnf2vamkt2h8": {
             "contractAddress": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
-            "decimals": null,
+            "decimals": 8,
             "name": "Huobi BTC",
             "cmcId": 6941,
             "symbol": "HBTC",
@@ -9011,7 +9019,7 @@
         },
         "oraim8c9d1nkfuqk9ezgyeugxql3mhqyndrw1huvo5h": {
             "contractAddress": "oraim8c9d1nkfuQk9EzGYEUGxqL3MHQYndRw1huVo5h",
-            "decimals": null,
+            "decimals": 6,
             "name": "MAX",
             "cmcId": 35410,
             "symbol": "MAX",
@@ -9019,7 +9027,7 @@
         },
         "4llbsb5rep3yetyzmxewygjcir5uxtkfurtaeuvc2ahs": {
             "contractAddress": "4LLbsb5ReP3yEtYzmXewyGjcir5uXtKFURtaEUVC2AHs",
-            "decimals": null,
+            "decimals": 6,
             "name": "Parcl",
             "cmcId": 30661,
             "symbol": "PRCL",
@@ -9027,7 +9035,7 @@
         },
         "df6yfrkc8kze3knkrherkzaetsxbrweniqfyjy4jpump": {
             "contractAddress": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Just a chill guy",
             "cmcId": 34125,
             "symbol": "CHILLGUY",
@@ -9035,7 +9043,7 @@
         },
         "dbridgjamsm95motzjs7m9lnkgerpbv9v6cur1dxnuu5": {
             "contractAddress": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
-            "decimals": null,
+            "decimals": 6,
             "name": "deBridge",
             "cmcId": 31528,
             "symbol": "DBR",
@@ -9043,7 +9051,7 @@
         },
         "5lafqurvco6o7kmz42eqvej9lw31stpygjeeu5skomta": {
             "contractAddress": "5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA",
-            "decimals": null,
+            "decimals": 6,
             "name": "Mumu the Bull (SOL)",
             "cmcId": 30285,
             "symbol": "MUMU",
@@ -9051,7 +9059,7 @@
         },
         "6casxficxzfp8apcg6vma2dfmindopxiqyqn4lsqfhoc": {
             "contractAddress": "6CAsXfiCXZfP8APCG6Vma2DFMindopxiqYQN4LSQfhoC",
-            "decimals": null,
+            "decimals": 6,
             "name": "Pocket Network",
             "cmcId": 11823,
             "symbol": "POKT",
@@ -9059,7 +9067,7 @@
         },
         "cattzawlyadd2ekzvjtjx8tvubyfrozdkjbkutjggdb7": {
             "contractAddress": "CATTzAwLyADd2ekzVjTjX8tVUBYfrozdkJBkutJggdB7",
-            "decimals": null,
+            "decimals": 8,
             "name": "CatDog",
             "cmcId": 32638,
             "symbol": "CATDOG",
@@ -9067,7 +9075,7 @@
         },
         "6ogzhhzdrqr9pgv6hz2mnze7urzbmafybbwuyp1fhitx": {
             "contractAddress": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx",
-            "decimals": null,
+            "decimals": 6,
             "name": "RETARDIO",
             "cmcId": 31921,
             "symbol": "RETARDIO",
@@ -9075,7 +9083,7 @@
         },
         "dfh5dzrgsvvcfdoyc2citkmrbdfrkyba4sofbpmapump": {
             "contractAddress": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
-            "decimals": null,
+            "decimals": 6,
             "name": "pippin",
             "cmcId": 35053,
             "symbol": "PIPPIN",
@@ -9083,7 +9091,7 @@
         },
         "poliswxnnrwc6obu1vhiukqzfjgl4xdsu4g9qjz9qvk": {
             "contractAddress": "poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk",
-            "decimals": null,
+            "decimals": 8,
             "name": "Star Atlas DAO",
             "cmcId": 11213,
             "symbol": "POLIS",
@@ -9091,7 +9099,7 @@
         },
         "gwuayrextecxyicwqflmsfebeu5z4qaxfldbjagn3hf1": {
             "contractAddress": "GwUayReXTeCxyiCwqfLMSfEbeu5z4QAXfLDBjagN3hf1",
-            "decimals": null,
+            "decimals": 8,
             "name": "WX Token",
             "cmcId": 15691,
             "symbol": "WX",
@@ -9099,7 +9107,7 @@
         },
         "gu3ldkn7vx3bmczlafynkcdxv2mh7yn44njzfxnypump": {
             "contractAddress": "Gu3LDkn7Vx3bmCzLafYNKcDxv2mH7YN44NJZFXnypump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Degen Spartan AI",
             "cmcId": 34994,
             "symbol": "DEGENAI",
@@ -9107,7 +9115,7 @@
         },
         "hhclbkw6fwhritkk81w8tystsrcluu6y7je1sqjvpump": {
             "contractAddress": "HhCLbkW6FwhriTkk81W8tYstsRCLUu6Y7Je1SQjVpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "KIKICat",
             "cmcId": 34888,
             "symbol": "KIKI",
@@ -9115,7 +9123,7 @@
         },
         "hhjpbhrrn4g56vsylut8dl5bv31hkxqsrahttuczezg4": {
             "contractAddress": "HhJpBhRRn4g56VsyLuT8DL5Bv31HkXqsrahTTUCZeZg4",
-            "decimals": null,
+            "decimals": 9,
             "name": "Myro",
             "cmcId": 28382,
             "symbol": "MYRO",
@@ -9123,7 +9131,7 @@
         },
         "atrluhph8dxnpny4wsnw7fxkhbeivbrtwby6bfb4xplj": {
             "contractAddress": "ATRLuHph8dxnPny4WSNW7fxkhbeivBrtWbY6BfB4xpLj",
-            "decimals": null,
+            "decimals": 9,
             "name": "Artrade",
             "cmcId": 19131,
             "symbol": "ATR",
@@ -9131,7 +9139,7 @@
         },
         "7b36ckryfzsmp3vlbyvwfvqxw2ndcyth5rhpnyypump": {
             "contractAddress": "7b36cKRYFZsMp3vLByVwfVQxW2ndcYth5rhPnyypump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Pino",
             "cmcId": 33656,
             "symbol": "PINO",
@@ -9139,7 +9147,7 @@
         },
         "25haybqfodhfwx9ay6rarbgvwgwddnqchsxs3jq3mtdj": {
             "contractAddress": "25hAyBQfoDhfWx9ay6rarbgvWGwDdNqcHsXS3jQ3mTDJ",
-            "decimals": null,
+            "decimals": 5,
             "name": "MANEKI",
             "cmcId": 30912,
             "symbol": "MANEKI",
@@ -9147,7 +9155,7 @@
         },
         "gektnfm84qfyp2gdahz5agacbrd69anmga5fdhzupump": {
             "contractAddress": "GekTNfm84QfyP2GdAHZ5AgACBRd69aNmgA5FDhZupump",
-            "decimals": null,
+            "decimals": 6,
             "name": "ORBIT",
             "cmcId": 35090,
             "symbol": "GRIFT",
@@ -9155,7 +9163,7 @@
         },
         "3a2vw9t5n6p4bamw3m6ylh1uj9immt7vsyuk6ouxpvlq": {
             "contractAddress": "3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq",
-            "decimals": null,
+            "decimals": 8,
             "name": "Keep3rV1",
             "cmcId": 7535,
             "symbol": "KP3R",
@@ -9163,7 +9171,7 @@
         },
         "bpyhcmnao2xg4ur771lurhrwug3rcp76jmg4xffaacvg": {
             "contractAddress": "BPYhCMNao2XG4UR771LurHrwUg3rcp76jmg4XFfAacvg",
-            "decimals": null,
+            "decimals": 9,
             "name": "ORA",
             "cmcId": 34165,
             "symbol": "ORA",
@@ -9171,7 +9179,7 @@
         },
         "hbonj5v8g71s2borivrhnfsb5mvpldhhyvjrupfhgkvl": {
             "contractAddress": "HBoNJ5v8g71s2boRivrHnfSB5MVPLDHHyVjruPfhGkvL",
-            "decimals": null,
+            "decimals": 1,
             "name": "Purple Pepe",
             "cmcId": 32171,
             "symbol": "$PURPE",
@@ -9179,7 +9187,7 @@
         },
         "5vos9evdjxf589wueub5i4ti7fwqmzcsasyd5ucburqm": {
             "contractAddress": "5voS9evDjxF589WuEub5i4ti7FWQmZCsAsyD5ucbuRqM",
-            "decimals": null,
+            "decimals": 6,
             "name": "Eliza (elizawakesup)",
             "cmcId": 34078,
             "symbol": "ELIZA",
@@ -9187,7 +9195,7 @@
         },
         "axriehr6xw3adzhopnvmn7gcprfcd41ddpitwmg6pump": {
             "contractAddress": "AxriehR6Xw3adzHopnvMn7GcpRFcD41ddpiTWMg6pump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Stool Prisondente",
             "cmcId": 35687,
             "symbol": "JAILSTOOL",
@@ -9195,7 +9203,7 @@
         },
         "cbdcxko9qavr9hfshgpebg3zekoraed7w1jfq2o3pump": {
             "contractAddress": "CBdCxKo9QavR9hfShgpEBG3zekorAeD7W1jfq2o3pump",
-            "decimals": null,
+            "decimals": 6,
             "name": "LUCE",
             "cmcId": 33694,
             "symbol": "LUCE",
@@ -9203,7 +9211,7 @@
         },
         "7d1iywfhw2cr9ybzbfe6nzaasuvxhqg5fizffezwpump": {
             "contractAddress": "7D1iYWfhw2cr9yBZBFE6nZaaSUvXHqG5FizFFEZwpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "yesnoerror",
             "cmcId": 34854,
             "symbol": "YNE",
@@ -9211,7 +9219,7 @@
         },
         "fvdo7cdjarhyoh6mcytfqx71etzcpviinvdd1v86qmy5": {
             "contractAddress": "FVdo7CDJarhYoH6McyTFqx71EtzCPViinvdd1v86Qmy5",
-            "decimals": null,
+            "decimals": 6,
             "name": "Aimonica Brands",
             "cmcId": 34590,
             "symbol": "AIMONICA",
@@ -9219,7 +9227,7 @@
         },
         "h2c31usxu35mdkbrgph8pudunmzo2e4rf4hnvl2upump": {
             "contractAddress": "H2c31USxu35MDkBrGph8pUDUnmzo2e4Rf4hnvL2Upump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Shoggoth (shoggoth.monster)",
             "cmcId": 33595,
             "symbol": "SHOGGOTH",
@@ -9227,7 +9235,7 @@
         },
         "4cnk9epnw5ixflzatcpjjdb1putcrpvvgtqukm9epump": {
             "contractAddress": "4Cnk9EPnW5ixfLZatCPJjDB1PUtcRpVVgTQukm9epump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Daddy Tate",
             "cmcId": 31830,
             "symbol": "DADDY",
@@ -9235,7 +9243,7 @@
         },
         "cs7lmjtuugeuwtfgfyto79nrkskigv7fdcp9qpuigdls": {
             "contractAddress": "CS7LmjtuugEUWtFgfyto79nrksKigv7Fdcp9qPuigdLs",
-            "decimals": null,
+            "decimals": 6,
             "name": "littlemanyu",
             "cmcId": 33287,
             "symbol": "MANYU",
@@ -9243,7 +9251,7 @@
         },
         "7zqzgztng5tjk1chtbdgfhykjbtxdfvaobuggdt4pump": {
             "contractAddress": "7ZqzGzTNg5tjK1CHTBdGFHyKjBtXdfvAobuGgdt4pump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Hasbulla's Cat",
             "cmcId": 34007,
             "symbol": "BARSIK",
@@ -9251,7 +9259,7 @@
         },
         "98mb39tpfkqj4bif8ivg9myb9wsfpzgpgn1sxovtpump": {
             "contractAddress": "98mb39tPFKQJ4Bif8iVg9mYb9wsfPZgpgN1sxoVTpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Large Language Model",
             "cmcId": 35130,
             "symbol": "LLM",
@@ -9259,7 +9267,7 @@
         },
         "7rtegu95fzz2kx3za37lu1ypicxu6pbysneagfwhpump": {
             "contractAddress": "7Rtegu95FZZ2KX3zA37LU1ypicxu6pBysNEagFwhpump",
-            "decimals": null,
+            "decimals": 6,
             "name": "Plankton in Pain",
             "cmcId": 34527,
             "symbol": "AAAHHM",
@@ -9267,7 +9275,7 @@
         },
         "geneth5amgsi8khatqoezp1xexwzj8vcuepynxdkrmyz": {
             "contractAddress": "GENEtH5amGSi8kHAtQoezp1XEXwZJ8vcuePYnXdKrMYz",
-            "decimals": null,
+            "decimals": 9,
             "name": "Genopets",
             "cmcId": 13632,
             "symbol": "GENE",
@@ -9275,7 +9283,7 @@
         },
         "9hcryuqrfdt1kurwuuf7xjb2eqcgfmc5433mjqj3strx": {
             "contractAddress": "9HCRyuqrFDt1kUrwuUF7xjb2eqCgFmC5433MjqJ3STRX",
-            "decimals": null,
+            "decimals": 9,
             "name": "StrikeX",
             "cmcId": 9220,
             "symbol": "STRX",
@@ -9283,7 +9291,7 @@
         },
         "73xslcbnlnc9bh81cqvkqj8ueyiarxng5zwjutbnvebg": {
             "contractAddress": "73xsLcBnLnc9bh81cqVKqj8uEyiarXng5ZwJuTbnVebG",
-            "decimals": null,
+            "decimals": 4,
             "name": "WUFFI",
             "cmcId": 30683,
             "symbol": "WUF",
