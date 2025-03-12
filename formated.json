@@ -11817,6 +11817,128 @@
             "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8627.png"
         }
     },
+    "SUI": {
+        "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::coin": {
+            "contractAddress": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
+            "decimals": 6,
+            "name": "Tether USDt",
+            "cmcId": 825,
+            "symbol": "USDT",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+        },
+        "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::usdc": {
+            "contractAddress": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+            "decimals": 6,
+            "name": "USDC",
+            "cmcId": 3408,
+            "symbol": "USDC",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+        },
+        "0x2::sui::sui": {
+            "contractAddress": "0x2::sui::SUI",
+            "decimals": 9,
+            "name": "Sui",
+            "cmcId": 20947,
+            "symbol": "SUI",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20947.png"
+        },
+        "0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a::fdusd::fdusd": {
+            "contractAddress": "0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a::fdusd::FDUSD",
+            "decimals": 6,
+            "name": "First Digital USD",
+            "cmcId": 26081,
+            "symbol": "FDUSD",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/26081.png"
+        },
+        "0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::deep": {
+            "contractAddress": "0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP",
+            "decimals": 6,
+            "name": "DeepBook Protocol",
+            "cmcId": 33391,
+            "symbol": "DEEP",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/33391.png"
+        },
+        "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::usdy": {
+            "contractAddress": "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::USDY",
+            "decimals": 6,
+            "name": "Ondo US Dollar Yield",
+            "cmcId": 29256,
+            "symbol": "USDY",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29256.png"
+        },
+        "0x6864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::cetus": {
+            "contractAddress": "0x6864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
+            "decimals": 9,
+            "name": "Cetus Protocol",
+            "cmcId": 25114,
+            "symbol": "CETUS",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/25114.png"
+        },
+        "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::send": {
+            "contractAddress": "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::SEND",
+            "decimals": 6,
+            "name": "Suilend",
+            "cmcId": 34611,
+            "symbol": "SEND",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/34611.png"
+        },
+        "0x8993129d72e733985f7f1a00396cbd055bad6f817fee36576ce483c8bbb8b87b::sudeng::sudeng": {
+            "contractAddress": "0x8993129d72e733985f7f1a00396cbd055bad6f817fee36576ce483c8bbb8b87b::sudeng::SUDENG",
+            "decimals": 9,
+            "name": "sudeng",
+            "cmcId": 33258,
+            "symbol": "HIPPO",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/33258.png"
+        },
+        "0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab2841d6e2a5aa00c3044e5544b5::navx::navx": {
+            "contractAddress": "0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab2841d6e2a5aa00c3044e5544b5::navx::NAVX",
+            "decimals": 9,
+            "name": "NAVI Protocol",
+            "cmcId": 29296,
+            "symbol": "NAVX",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29296.png"
+        },
+        "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::ns": {
+            "contractAddress": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS",
+            "decimals": 6,
+            "name": "Sui Name Service",
+            "cmcId": 32942,
+            "symbol": "NS",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/32942.png"
+        },
+        "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::cert": {
+            "contractAddress": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT",
+            "decimals": 9,
+            "name": "Volo Staked SUI",
+            "cmcId": 29401,
+            "symbol": "VSUI",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29401.png"
+        },
+        "0xf22da9a24ad027cccb5f2d496cbe91de953d363513db08a3a734d361c7c17503::lofi::lofi": {
+            "contractAddress": "0xf22da9a24ad027cccb5f2d496cbe91de953d363513db08a3a734d361c7c17503::LOFI::LOFI",
+            "decimals": 9,
+            "name": "LOFI",
+            "cmcId": 34187,
+            "symbol": "LOFI",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/34187.png"
+        },
+        "0xae00e078a46616bf6e1e6fb673d18dcd2aa31319a07c9bc92f6063363f597b4e::axol::axol": {
+            "contractAddress": "0xae00e078a46616bf6e1e6fb673d18dcd2aa31319a07c9bc92f6063363f597b4e::AXOL::AXOL",
+            "decimals": 9,
+            "name": "Axol",
+            "cmcId": 33183,
+            "symbol": "AXOL",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/33183.png"
+        },
+        "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::hasui": {
+            "contractAddress": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+            "decimals": 9,
+            "name": "Haedal Staked SUI",
+            "cmcId": 29402,
+            "symbol": "HASUI",
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29402.png"
+        }
+    },
     "zkMATIC": {
         "0x1e4a5963abfd975d8c9021ce480b42188849d41d": {
             "contractAddress": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",

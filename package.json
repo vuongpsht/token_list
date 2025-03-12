@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@mysten/sui": "^1.22.0",
     "@solana/web3.js": "^1.98.0",
     "fs": "^0.0.1-security",
     "node-fetch": "^3.3.2"

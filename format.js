@@ -12,7 +12,8 @@ const INCLUDES_CHAIN = [
     "Polygon zkEVM",
     "Avalanche C-Chain",
     "Arbitrum",
-    "Optimism"
+    "Optimism",
+    "Sui Network"
 ]
 const chainSymbolByName = {
     "Ethereum": "ETH",
